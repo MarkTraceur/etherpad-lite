@@ -158,7 +158,7 @@ exports.handleDisconnect = function(client)
  * @param message the message from the client
  */
 exports.handleMessage = function(client, message)
-{ 
+{
   _.map(hooks.callAll( "handleMessage", { client: client, message: message }), function ( newmessage ) {
     if ( newmessage || newmessage === null ) {
       message = newmessage;
