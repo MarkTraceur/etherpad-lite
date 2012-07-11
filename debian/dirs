@@ -1,0 +1,7 @@
+usr/share/etherpad-lite
+usr/share/etherpad-lite/bin
+usr/share/etherpad-lite/src
+usr/share/etherpad-lite/node_modules
+var/lib/etherpad-lite
+var/log/etherpad-lite
+etc/etherpad-lite

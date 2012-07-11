@@ -1,0 +1,23 @@
+This package was debianized by Mark Holmquist <mtraceur@member.fsf.org> on
+2012-07-11 18:43:00 GMT.
+
+It was downloaded from http://github.com/Pita/etherpad-lite
+
+Upstream Author(s):
+
+    Peter Martischka
+
+Copyright:
+
+    Copyright (C) 2012 Etherpad Foundation
+
+License:
+
+    Apache License v2
+
+The Debian packaging is:
+
+    Copyright (C) 2012 Mark Holmquist <mtraceur@member.fsf.org>
+
+and is licensed under the GPL version 2 or later,
+see `/usr/share/common-licenses/GPL-2'.

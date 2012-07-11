@@ -1,0 +1,6 @@
+bin/* usr/share/etherpad-lite/bin
+src/* usr/share/etherpad-lite/static
+node_modules/* usr/share/etherpad-lite/node_modules
+src/package.json usr/share/etherpad-lite
+settings.json.template etc/etherpad-lite
+settings.json etc/etherpad-lite

@@ -1,0 +1,5 @@
+etherpad-lite (1.1.1-wm1) precise-wikimedia; urgency=low
+
+  * Initial package
+
+ -- Mark Holmquist <mtraceur@member.fsf.org>  Wed, 11 Jul 2012 11:46:30 -0700
